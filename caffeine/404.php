@@ -9,7 +9,6 @@
 
 get_header(); 
 /** alt header*/
-/** alt headertwo  */
 
 $translate['404-title'] = mfn_opts_get('translate') ? mfn_opts_get('translate-404-title','Ooops... Error 404') : __('Ooops... Error 404','caffeine');
 $translate['404-subtitle'] = mfn_opts_get('translate') ? mfn_opts_get('translate-404-subtitle','We`re sorry, but the page you are looking for doesn`t exist.') : __('We`re sorry, but the page you are looking for doesn`t exist.','caffeine');
